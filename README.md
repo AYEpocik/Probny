@@ -1,1 +1,2 @@
 # Probny
+print('Hello, World!')
